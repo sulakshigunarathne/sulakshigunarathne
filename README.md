@@ -48,6 +48,11 @@
 
 ---
 
+### 📜 Recent UI/UX Work:
+- **Roamly - A Travel App**: [Figma Design](https://www.figma.com/design/5auqp3su8ncLwvveL6KxYq/Roamly?node-id=0-1&t=v2K5Ykh4L7hVcfzT-1)
+- **AIVolution - AI-driven Soft Skills Training Academy**: [Figma Design](https://www.figma.com/design/X2j1P9abWNDicKzRipPmeh/AIvolution?node-id=0-1&t=NM8fHfQzNwXFHn9I-1)
+
+---
 ### 📜 Certifications:
 - 🏅 **Machine Learning for Natural Language Processing** - AWS Academy  
 - 🏅 **Neural Networks and Deep Learning** - Deeplearning.AI  
